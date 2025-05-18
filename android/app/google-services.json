@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944053714771",
+    "project_id": "shutrzzz",
+    "storage_bucket": "shutrzzz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944053714771:android:d8c17393109d5344a7eba6",
+        "android_client_info": {
+          "package_name": "com.shutrzzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReQqrKQXAajOugwVRo03B2o8Ho33YTYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
